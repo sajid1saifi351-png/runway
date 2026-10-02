@@ -1,0 +1,6 @@
+{
+  "name": "RAN AWAY: Indian Escape",
+  "description": "A high-octane 3D mobile endless runner where adventurer Sajid escapes ancient Indian temples, lush jungles, and desert ruins while outrunning mythical guardians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
